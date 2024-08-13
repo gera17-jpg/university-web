@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GHANZEL UNIVERSITY</title>
+    <link rel="stylesheet" href="res.css">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <nav>
+        <h2>GHANZEL UNIVERSITY</h2>
+        <div class="n1">
+            <a href=" ">Campus</a>
+            <a href=" ">Courses</a>
+            <a href=" ">Enrollment & Admissions</a>
+            <a href=" ">Log In</a>     
+        </div>
+    </nav>
+    <section class="s1">
+        <h1>Shaping minds for a better nation</h1>
+        <a href = " " class= "btn">Create your journey with us</a>
+    </section>
+</body>
+</html>
